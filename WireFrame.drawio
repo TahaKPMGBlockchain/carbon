@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-21T04:06:42.115Z" agent="5.0 (Macintosh)" etag="1esr8at4hhxwgnZLlO_Z" version="20.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-21T04:07:57.321Z" agent="5.0 (Macintosh)" etag="eWn6NpCaGQPcBZET5yVo" version="20.1.4" type="github">
   <diagram id="2CiY7Sf4G66lhT_vsnN_" name="Page-1">
     <mxGraphModel dx="839" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -37,6 +37,9 @@
           <mxGeometry y="0.5" width="24" height="24" relative="1" as="geometry">
             <mxPoint x="10" y="-12" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wGYZzpSj5jo8aP6x9LUJ-39" value="Email" style="rounded=1;fillColor=#0057D8;align=center;strokeColor=none;html=1;fontColor=#ffffff;fontSize=12;sketch=0;" vertex="1" parent="wGYZzpSj5jo8aP6x9LUJ-13">
+          <mxGeometry x="165" y="5" width="75" height="23" as="geometry" />
         </mxCell>
         <mxCell id="wGYZzpSj5jo8aP6x9LUJ-16" value="" style="rounded=1;fillColor=#ffffff;strokeColor=#DFE1E5;shadow=1;html=1;arcSize=4;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="720" y="296" width="270" height="111" as="geometry" />
